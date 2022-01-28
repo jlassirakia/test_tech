@@ -1,0 +1,49 @@
+ul li ul {
+  display: none;
+  background-color: white;
+  color: black;
+}
+ul li ul li {
+  float: none;
+  color: black;
+}
+a {
+  color: white;
+}
+
+ul li:hover ul {
+  display: block;
+}
+
+.nav {
+  height: 2cm;
+}
+
+.nav-item {
+  margin-top: 0.5cm;
+  font-size: 14px;
+  margin-right: 2cm;
+  color: aliceblue;
+}
+
+.nav-link {
+  color: white;
+}
+img {
+  margin-left: 2cm;
+  width: 5cm;
+}
+
+button {
+  background-color: white;
+  border: none;
+  border-radius: 50px;
+  text-decoration: none;
+  width: 190px;
+  height: 45px;
+  color: black;
+}
+
+.nav-tabs {
+  background-color: rgb(68, 50, 165);
+}

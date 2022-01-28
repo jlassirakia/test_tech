@@ -1,0 +1,18 @@
+h4 {
+  text-align: center;
+  color: rgb(159, 84, 230);
+}
+h1 {
+  text-align: center;
+  color: black;
+}
+.col {
+  margin-left: 1.5cm;
+}
+.lead {
+  font-size: 25px;
+}
+
+.checked {
+  color: rgb(231, 191, 14);
+}

@@ -1,0 +1,21 @@
+.cont {
+  background-color: rgb(64, 22, 133);
+  width: 24cm;
+  height: 6cm;
+  margin-right: 6cm;
+  margin-left: 8cm;
+}
+.col {
+  text-align: center;
+  font-size: 45px;
+  color: white;
+  margin-top: 1.5cm;
+}
+h3 {
+  margin-top: 1cm;
+  color: rgb(134, 99, 167);
+  font-size: 20px;
+}
+svg {
+  color: rgb(206, 206, 255);
+}

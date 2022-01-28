@@ -1,0 +1,67 @@
+h1 {
+  color: white;
+  font-size: 38px;
+  margin-top: 5cm;
+  margin-left: 1.5cm;
+}
+h3 {
+  color: white;
+  font-size: 25px;
+  margin-top: 1cm;
+  margin-left: 1.5cm;
+}
+
+.btn1 {
+  background-color: white;
+  border: none;
+  border-radius: 50px;
+  text-decoration: none;
+  width: 190px;
+  height: 70px;
+  margin-left: 4cm;
+
+  margin-top: 1cm;
+}
+.btn2 {
+  border: none;
+  border-radius: 50px;
+  text-decoration: none;
+  width: 190px;
+  height: 70px;
+  color: beige;
+  margin-top: 1cm;
+  background-color: rgb(52, 28, 80);
+}
+
+.btn2:hover {
+  background-color: white;
+  color: black;
+}
+
+.bg_acceuil {
+  background-color: rgb(52, 28, 80);
+}
+.row {
+  height: 23cm;
+}
+.col {
+  width: 3cm;
+}
+
+img {
+  margin-top: 2cm;
+  width: 20cm;
+  height: 14cm;
+  margin-left: 1cm;
+}
+iframe {
+  margin-top: 2cm;
+  width: 20cm;
+  height: 14cm;
+  margin-left: 1cm;
+}
+
+.bg_acceuil {
+  background-image: url("src/app/acceuil/bg4.jpg");
+  background-repeat: none;
+}

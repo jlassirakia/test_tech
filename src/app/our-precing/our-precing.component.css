@@ -1,0 +1,65 @@
+h3 {
+  margin-top: 1cm;
+  color: rgb(134, 99, 167);
+  font-size: 20px;
+  text-align: center;
+}
+h1 {
+  text-align: center;
+}
+
+.btn-light {
+  background-color: rgb(146, 41, 216);
+  border: none;
+  border-radius: 50px;
+  text-decoration: none;
+  width: 190px;
+  height: 45px;
+  color: white;
+  margin-top: 1cm;
+  margin-left: 8cm;
+}
+.col {
+  margin-left: 2cm;
+  height: 13cm;
+}
+p {
+  text-align: center;
+  margin-left: 1cm;
+  color: rgb(158, 155, 155);
+}
+.card-title {
+  text-align: center;
+  font-size: 25px;
+}
+
+ul {
+  list-style-type: none;
+  text-align: center;
+  margin-top: 1cm;
+  font-size: 23px;
+  margin-bottom: 1cm;
+  color: rgb(110, 109, 109);
+}
+
+.btn-light {
+  background-color: rgb(84, 100, 170);
+  border: none;
+  border-radius: 50px;
+  text-decoration: none;
+  width: 190px;
+  height: 45px;
+  color: white;
+  margin-left: 3cm;
+  margin-bottom: 3cm;
+}
+svg {
+  color: rgb(206, 206, 255);
+}
+.card-title {
+  margin-top: 1cm;
+}
+.col1 {
+  margin-left: 4cm;
+  height: 5cm;
+}

@@ -1,0 +1,37 @@
+p {
+  text-align: center;
+  color: rgb(134, 99, 167);
+  margin-top: 1cm;
+  font-size: 22px;
+}
+
+h1 {
+  text-align: center;
+  margin-bottom: 1.5cm;
+}
+.card-text {
+  color: gray;
+}
+svg {
+  color: rgb(111, 9, 245);
+  width: 2cm;
+  height: 2cm;
+  margin-top: 0.2;
+  margin-top: 1cm;
+  margin-left: 3cm;
+}
+.card-title {
+  text-align: center;
+}
+.col {
+  margin-left: 1.5cm;
+}
+
+img {
+  color: rgb(191, 131, 247);
+  width: 1cm;
+  height: 1cm;
+  margin-top: 0.2;
+  margin-top: 1cm;
+  margin-left: 3cm;
+}
